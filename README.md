@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aaron, an <a href="https://www.linkedin.com/in/aaron-campbell-937631358/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Aaron, an <a href="https://www.linkedin.com/in/aaron-campbell-937631358/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
